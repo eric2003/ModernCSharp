@@ -1,0 +1,6 @@
+D:\work\csharp_work\ModernCSharp\codes\simple\vs2022ide\dll\01\testdll\bin\Debug\testdll.dll
+D:\work\csharp_work\ModernCSharp\codes\simple\vs2022ide\dll\01\testdll\bin\Debug\testdll.pdb
+D:\work\csharp_work\ModernCSharp\codes\simple\vs2022ide\dll\01\testdll\obj\Debug\testdll.csproj.AssemblyReference.cache
+D:\work\csharp_work\ModernCSharp\codes\simple\vs2022ide\dll\01\testdll\obj\Debug\testdll.csproj.CoreCompileInputs.cache
+D:\work\csharp_work\ModernCSharp\codes\simple\vs2022ide\dll\01\testdll\obj\Debug\testdll.dll
+D:\work\csharp_work\ModernCSharp\codes\simple\vs2022ide\dll\01\testdll\obj\Debug\testdll.pdb

@@ -1,0 +1,2 @@
+D:\work\csharp_work\ModernCSharp\codes\XNA\simple\01\MyXnA\obj\Debug\MyXnA.csproj.AssemblyReference.cache
+D:\work\csharp_work\ModernCSharp\codes\XNA\simple\01\MyXnA\obj\Debug\MyXnA.csproj.CoreCompileInputs.cache

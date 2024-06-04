@@ -1,0 +1,7 @@
+D:\work\csharp_work\ModernCSharp\codes\simple\vs2022ide\01\testprj\bin\Debug\testprj.exe.config
+D:\work\csharp_work\ModernCSharp\codes\simple\vs2022ide\01\testprj\bin\Debug\testprj.exe
+D:\work\csharp_work\ModernCSharp\codes\simple\vs2022ide\01\testprj\bin\Debug\testprj.pdb
+D:\work\csharp_work\ModernCSharp\codes\simple\vs2022ide\01\testprj\obj\Debug\testprj.csproj.AssemblyReference.cache
+D:\work\csharp_work\ModernCSharp\codes\simple\vs2022ide\01\testprj\obj\Debug\testprj.csproj.CoreCompileInputs.cache
+D:\work\csharp_work\ModernCSharp\codes\simple\vs2022ide\01\testprj\obj\Debug\testprj.exe
+D:\work\csharp_work\ModernCSharp\codes\simple\vs2022ide\01\testprj\obj\Debug\testprj.pdb

@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\work\\csharp_work\\ModernCSharp\\codes\\SnakeGame\\01\\Snake\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35A40E2E-7B13-4320-AD76-26BC04256899}|Snake.csproj|d:\\work\\csharp_work\\moderncsharp\\codes\\snakegame\\01\\snake\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35A40E2E-7B13-4320-AD76-26BC04256899}|Snake.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35A40E2E-7B13-4320-AD76-26BC04256899}|Snake.csproj|d:\\work\\csharp_work\\moderncsharp\\codes\\snakegame\\01\\snake\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{35A40E2E-7B13-4320-AD76-26BC04256899}|Snake.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35A40E2E-7B13-4320-AD76-26BC04256899}|Snake.csproj|d:\\work\\csharp_work\\moderncsharp\\codes\\snakegame\\01\\snake\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35A40E2E-7B13-4320-AD76-26BC04256899}|Snake.csproj|solutionrelative:gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35A40E2E-7B13-4320-AD76-26BC04256899}|Snake.csproj|d:\\work\\csharp_work\\moderncsharp\\codes\\snakegame\\01\\snake\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{35A40E2E-7B13-4320-AD76-26BC04256899}|Snake.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35A40E2E-7B13-4320-AD76-26BC04256899}|Snake.csproj|d:\\work\\csharp_work\\moderncsharp\\codes\\snakegame\\01\\snake\\images.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35A40E2E-7B13-4320-AD76-26BC04256899}|Snake.csproj|solutionrelative:images.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35A40E2E-7B13-4320-AD76-26BC04256899}|Snake.csproj|d:\\work\\csharp_work\\moderncsharp\\codes\\snakegame\\01\\snake\\gridvalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35A40E2E-7B13-4320-AD76-26BC04256899}|Snake.csproj|solutionrelative:gridvalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35A40E2E-7B13-4320-AD76-26BC04256899}|Snake.csproj|d:\\work\\csharp_work\\moderncsharp\\codes\\snakegame\\01\\snake\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35A40E2E-7B13-4320-AD76-26BC04256899}|Snake.csproj|solutionrelative:position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35A40E2E-7B13-4320-AD76-26BC04256899}|Snake.csproj|d:\\work\\csharp_work\\moderncsharp\\codes\\snakegame\\01\\snake\\direction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35A40E2E-7B13-4320-AD76-26BC04256899}|Snake.csproj|solutionrelative:direction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35A40E2E-7B13-4320-AD76-26BC04256899}|Snake.csproj|d:\\work\\csharp_work\\moderncsharp\\codes\\snakegame\\01\\snake\\snake.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{35A40E2E-7B13-4320-AD76-26BC04256899}|Snake.csproj|solutionrelative:snake.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\work\\csharp_work\\ModernCSharp\\codes\\SnakeGame\\01\\Snake\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "D:\\work\\csharp_work\\ModernCSharp\\codes\\SnakeGame\\01\\Snake\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-28T02:55:42.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\work\\csharp_work\\ModernCSharp\\codes\\SnakeGame\\01\\Snake\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "D:\\work\\csharp_work\\ModernCSharp\\codes\\SnakeGame\\01\\Snake\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-28T02:43:35.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Images.cs",
+              "DocumentMoniker": "D:\\work\\csharp_work\\ModernCSharp\\codes\\SnakeGame\\01\\Snake\\Images.cs",
+              "RelativeDocumentMoniker": "Images.cs",
+              "ToolTip": "D:\\work\\csharp_work\\ModernCSharp\\codes\\SnakeGame\\01\\Snake\\Images.cs",
+              "RelativeToolTip": "Images.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T02:17:58.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameState.cs",
+              "DocumentMoniker": "D:\\work\\csharp_work\\ModernCSharp\\codes\\SnakeGame\\01\\Snake\\GameState.cs",
+              "RelativeDocumentMoniker": "GameState.cs",
+              "ToolTip": "D:\\work\\csharp_work\\ModernCSharp\\codes\\SnakeGame\\01\\Snake\\GameState.cs",
+              "RelativeToolTip": "GameState.cs",
+              "ViewState": "AQIAAH4AAAAAAAAAAAAwwJAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T00:21:31.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Position.cs",
+              "DocumentMoniker": "D:\\work\\csharp_work\\ModernCSharp\\codes\\SnakeGame\\01\\Snake\\Position.cs",
+              "RelativeDocumentMoniker": "Position.cs",
+              "ToolTip": "D:\\work\\csharp_work\\ModernCSharp\\codes\\SnakeGame\\01\\Snake\\Position.cs",
+              "RelativeToolTip": "Position.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAIwB4AAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T00:12:06.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Direction.cs",
+              "DocumentMoniker": "D:\\work\\csharp_work\\ModernCSharp\\codes\\SnakeGame\\01\\Snake\\Direction.cs",
+              "RelativeDocumentMoniker": "Direction.cs",
+              "ToolTip": "D:\\work\\csharp_work\\ModernCSharp\\codes\\SnakeGame\\01\\Snake\\Direction.cs",
+              "RelativeToolTip": "Direction.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAApwB0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T16:22:13.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GridValue.cs",
+              "DocumentMoniker": "D:\\work\\csharp_work\\ModernCSharp\\codes\\SnakeGame\\01\\Snake\\GridValue.cs",
+              "RelativeDocumentMoniker": "GridValue.cs",
+              "ToolTip": "D:\\work\\csharp_work\\ModernCSharp\\codes\\SnakeGame\\01\\Snake\\GridValue.cs",
+              "RelativeToolTip": "GridValue.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T16:19:45.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Snake",
+              "DocumentMoniker": "D:\\work\\csharp_work\\ModernCSharp\\codes\\SnakeGame\\01\\Snake\\Snake.csproj",
+              "RelativeDocumentMoniker": "Snake.csproj",
+              "ToolTip": "D:\\work\\csharp_work\\ModernCSharp\\codes\\SnakeGame\\01\\Snake\\Snake.csproj",
+              "RelativeToolTip": "Snake.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-27T16:10:59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\work\\csharp_work\\ModernCSharp\\codes\\SnakeGame\\01\\Snake\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "D:\\work\\csharp_work\\ModernCSharp\\codes\\SnakeGame\\01\\Snake\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwCIAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T16:09:46.52Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
