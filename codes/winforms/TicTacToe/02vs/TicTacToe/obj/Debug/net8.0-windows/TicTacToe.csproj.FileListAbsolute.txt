@@ -1,0 +1,17 @@
+D:\work\csharp_work\ModernCSharp\codes\winforms\TicTacToe\02vs\TicTacToe\bin\Debug\net8.0-windows\TicTacToe.exe
+D:\work\csharp_work\ModernCSharp\codes\winforms\TicTacToe\02vs\TicTacToe\bin\Debug\net8.0-windows\TicTacToe.deps.json
+D:\work\csharp_work\ModernCSharp\codes\winforms\TicTacToe\02vs\TicTacToe\bin\Debug\net8.0-windows\TicTacToe.runtimeconfig.json
+D:\work\csharp_work\ModernCSharp\codes\winforms\TicTacToe\02vs\TicTacToe\bin\Debug\net8.0-windows\TicTacToe.dll
+D:\work\csharp_work\ModernCSharp\codes\winforms\TicTacToe\02vs\TicTacToe\bin\Debug\net8.0-windows\TicTacToe.pdb
+D:\work\csharp_work\ModernCSharp\codes\winforms\TicTacToe\02vs\TicTacToe\obj\Debug\net8.0-windows\TicTacToe.Form1.resources
+D:\work\csharp_work\ModernCSharp\codes\winforms\TicTacToe\02vs\TicTacToe\obj\Debug\net8.0-windows\TicTacToe.csproj.GenerateResource.cache
+D:\work\csharp_work\ModernCSharp\codes\winforms\TicTacToe\02vs\TicTacToe\obj\Debug\net8.0-windows\TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+D:\work\csharp_work\ModernCSharp\codes\winforms\TicTacToe\02vs\TicTacToe\obj\Debug\net8.0-windows\TicTacToe.AssemblyInfoInputs.cache
+D:\work\csharp_work\ModernCSharp\codes\winforms\TicTacToe\02vs\TicTacToe\obj\Debug\net8.0-windows\TicTacToe.AssemblyInfo.cs
+D:\work\csharp_work\ModernCSharp\codes\winforms\TicTacToe\02vs\TicTacToe\obj\Debug\net8.0-windows\TicTacToe.csproj.CoreCompileInputs.cache
+D:\work\csharp_work\ModernCSharp\codes\winforms\TicTacToe\02vs\TicTacToe\obj\Debug\net8.0-windows\TicTacToe.sourcelink.json
+D:\work\csharp_work\ModernCSharp\codes\winforms\TicTacToe\02vs\TicTacToe\obj\Debug\net8.0-windows\TicTacToe.dll
+D:\work\csharp_work\ModernCSharp\codes\winforms\TicTacToe\02vs\TicTacToe\obj\Debug\net8.0-windows\refint\TicTacToe.dll
+D:\work\csharp_work\ModernCSharp\codes\winforms\TicTacToe\02vs\TicTacToe\obj\Debug\net8.0-windows\TicTacToe.pdb
+D:\work\csharp_work\ModernCSharp\codes\winforms\TicTacToe\02vs\TicTacToe\obj\Debug\net8.0-windows\TicTacToe.genruntimeconfig.cache
+D:\work\csharp_work\ModernCSharp\codes\winforms\TicTacToe\02vs\TicTacToe\obj\Debug\net8.0-windows\ref\TicTacToe.dll

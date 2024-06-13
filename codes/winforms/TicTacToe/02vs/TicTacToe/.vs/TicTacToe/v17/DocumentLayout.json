@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\work\\csharp_work\\ModernCSharp\\codes\\winforms\\TicTacToe\\02vs\\TicTacToe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8EFF72F6-0C1D-4932-9672-BF8BEDEBB89A}|TicTacToe.csproj|d:\\work\\csharp_work\\moderncsharp\\codes\\winforms\\tictactoe\\02vs\\tictactoe\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EFF72F6-0C1D-4932-9672-BF8BEDEBB89A}|TicTacToe.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EFF72F6-0C1D-4932-9672-BF8BEDEBB89A}|TicTacToe.csproj|d:\\work\\csharp_work\\moderncsharp\\codes\\winforms\\tictactoe\\02vs\\tictactoe\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8EFF72F6-0C1D-4932-9672-BF8BEDEBB89A}|TicTacToe.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EFF72F6-0C1D-4932-9672-BF8BEDEBB89A}|TicTacToe.csproj|d:\\work\\csharp_work\\moderncsharp\\codes\\winforms\\tictactoe\\02vs\\tictactoe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EFF72F6-0C1D-4932-9672-BF8BEDEBB89A}|TicTacToe.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EFF72F6-0C1D-4932-9672-BF8BEDEBB89A}|TicTacToe.csproj|d:\\work\\csharp_work\\moderncsharp\\codes\\winforms\\tictactoe\\02vs\\tictactoe\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EFF72F6-0C1D-4932-9672-BF8BEDEBB89A}|TicTacToe.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EFF72F6-0C1D-4932-9672-BF8BEDEBB89A}|TicTacToe.csproj|d:\\work\\csharp_work\\moderncsharp\\codes\\winforms\\tictactoe\\02vs\\tictactoe\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{8EFF72F6-0C1D-4932-9672-BF8BEDEBB89A}|TicTacToe.csproj|solutionrelative:form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\work\\csharp_work\\ModernCSharp\\codes\\winforms\\TicTacToe\\02vs\\TicTacToe\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\work\\csharp_work\\ModernCSharp\\codes\\winforms\\TicTacToe\\02vs\\TicTacToe\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T15:00:39.445Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\work\\csharp_work\\ModernCSharp\\codes\\winforms\\TicTacToe\\02vs\\TicTacToe\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\work\\csharp_work\\ModernCSharp\\codes\\winforms\\TicTacToe\\02vs\\TicTacToe\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAIQAAAAAAAAAAAAQwJQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T15:03:49.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\work\\csharp_work\\ModernCSharp\\codes\\winforms\\TicTacToe\\02vs\\TicTacToe\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\work\\csharp_work\\ModernCSharp\\codes\\winforms\\TicTacToe\\02vs\\TicTacToe\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T15:01:08.754Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "D:\\work\\csharp_work\\ModernCSharp\\codes\\winforms\\TicTacToe\\02vs\\TicTacToe\\Form1.resx",
+              "RelativeDocumentMoniker": "Form1.resx",
+              "ToolTip": "D:\\work\\csharp_work\\ModernCSharp\\codes\\winforms\\TicTacToe\\02vs\\TicTacToe\\Form1.resx",
+              "RelativeToolTip": "Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-06-06T15:01:05.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\work\\csharp_work\\ModernCSharp\\codes\\winforms\\TicTacToe\\02vs\\TicTacToe\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "D:\\work\\csharp_work\\ModernCSharp\\codes\\winforms\\TicTacToe\\02vs\\TicTacToe\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGkAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T15:00:52.479Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
